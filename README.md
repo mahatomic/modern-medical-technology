@@ -1,4 +1,5 @@
 # Задачки от "Современные медицинские технологии"
+![SQL](https://img.shields.io/badge/SQL-DD0031?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 Необходимо составить SQL-запросы, для решения следующих задач:
