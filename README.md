@@ -1,4 +1,4 @@
-# ТЗ Современные медицинские технологии
+# Задачки от "Современные медицинские технологии"
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 Необходимо составить SQL-запросы, для решения следующих задач:
